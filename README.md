@@ -118,8 +118,8 @@ Cada atendimento é salvo em `data/historico.json`:
 
 **Como visualizar o CSV em formato de tabela:**
 
-- **Excel:** abra o `data/atendimentos.csv` com dois cliques, ou, no VS Code, botão direito no arquivo e selecione para abrir com excel. As colunas já aparecem separadas.
-- **VS Code com a extensão Edit CSV:** instale em Extensões, abra o arquivo e clique em *Edit csv* no canto superior direito para vê-lo como planilha.
+- **Excel:** abra o arquivo `data/atendimentos.csv` com dois cliques.
+- **VS Code com a extensão Edit CSV:** instale em Extensões, abra o arquivo clicando com botão direito em *Edit csv* no canto superior direito para vê-lo como planilha.
 
 ## Fontes consultadas
 
@@ -137,6 +137,13 @@ Cada atendimento é salvo em `data/historico.json`:
 | 9 | FGTS | https://www.fgts.gov.br/Paginas/trabalhador/app-fgts.aspx |10/11/2026 |
 | 10 | Seguro-desemprego | https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego | 13/11/2026 |
 | 11 | 13º salário (Lei 4.090/1962) | https://www.planalto.gov.br/ccivil_03/leis/l4090.htm | 15/11/2026 |
+
+
+### Fontes de apoio (consultadas para decidir o que entra ou não na base):
+
+- eSocial — desativação da consulta de qualificação cadastral on-line (10/02/2025): https://www.gov.br/esocial/pt-br/noticias/desativacao-da-consulta-da-qualificacao-cadastral-on-line
+- eSocial — qualificação cadastral (responsabilidade do empregador): https://www.gov.br/esocial/pt-br/empresas/consulta-qualificacao-cadastral
+- CIN — onde emitir e documentos: https://www.gov.br/governodigital/pt-br/identidade/cin/duvidas-frequentes-sobre-a-cin-campanha
 
 ## Resultado do teste com usuários
 
