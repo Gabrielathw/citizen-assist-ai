@@ -79,8 +79,8 @@ A pergunta, as palavras-chave e o título são comparados **sem acentos, sem pon
 
 O assistente não “entende” a pergunta como uma IA. Ele compara palavras e dá uma nota a cada uma das 17 orientações:
 
-| Palavra-chave da orientação que aparece na pergunta | +3 |
-| Palavra da pergunta (4 letras ou mais) que aparece no título | +1 |
+ Palavra-chave da orientação que aparece na pergunta = +3 
+Palavra da pergunta (4 letras ou mais) que aparece no título = +1 
 
 | Melhor pontuação | Resultado |
 |---|---|
