@@ -14,9 +14,9 @@
 
 ## Público e problema
 
-**Público:** jovens de 14 a 24 anos em busca do primeiro emprego (aprendiz, estágio ou primeiro registro).
+**Público:** Jovens de 14 a 24 anos em busca do primeiro emprego (aprendiz, estágio ou primeiro registro).
 
-**Problema:** para começar a trabalhar, o jovem precisa de vários documentos (CPF, identidade, Carteira de Trabalho Digital, título de eleitor, alistamento) e de informações sobre direitos (estágio, Jovem Aprendiz, FGTS, 13º). A informação está espalhada em vários sites do governo, em linguagem técnica, e há sites falsos ou pagos que imitam os oficiais. O assistente reúne essas orientações em linguagem simples, com fonte oficial.
+**Problema:** Para começar a trabalhar, o jovem precisa de vários documentos (CPF, identidade, Carteira de Trabalho Digital, título de eleitor, alistamento) e de informações sobre direitos (estágio, Jovem Aprendiz, FGTS, 13º). A informação está espalhada em vários sites do governo, em linguagem técnica, e há sites falsos ou pagos que imitam os oficiais. O assistente reúne essas orientações em linguagem simples, com fonte oficial.
 
 ## ODS relacionados (Objetivos de Desenvolvimento Sustentável)
 
