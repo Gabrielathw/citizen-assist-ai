@@ -1,4 +1,4 @@
-# Unus IA — Citizen Assist AI para Jovens no Primeiro Emprego
+# Unus IA —  AI para Jovens no Primeiro Emprego
 
 **Unus IA** é um assistente de terminal, em Python, que orienta jovens que vão começar a trabalhar sobre **documentos, trabalho e direitos**, sempre com fonte oficial, data de verificação e aviso de que **não é um canal oficial**.
 
