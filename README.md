@@ -116,7 +116,10 @@ Cada atendimento é salvo em `data/historico.json`:
 | tempo_segundos | `round(time.time() - inicio, 1)` |
 | facilidade | nota de 1 a 5 dada ao sair (aplicada a todos os atendimentos da sessão) |
 
-A exportação usa `csv.DictWriter` e grava `data/atendimentos.csv` com `;` como separador e codificação `utf-8-sig`, para abrir direto no Excel em português.
+**Como visualizar o CSV em formato de tabela:**
+
+- **Excel:** abra o `data/atendimentos.csv` com dois cliques, ou, no VS Code, botão direito no arquivo e selecione para abrir com excel. As colunas já aparecem separadas.
+- **VS Code com a extensão Edit CSV:** instale em Extensões, abra o arquivo e clique em *Edit csv* no canto superior direito para vê-lo como planilha.
 
 ## Fontes consultadas
 
