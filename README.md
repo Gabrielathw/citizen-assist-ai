@@ -142,20 +142,24 @@ Cada atendimento é salvo em `data/historico.json`:
 
 | Indicador | Resultado |
 |---|---|
-| Atendimentos | _ |
-| Resposta encontrada | _ % |
-| Taxa de acerto (ajudou) | _ % |
-| Tempo médio | _ s |
-| Tentativas por atendimento | _ |
-| Facilidade de uso (1 a 5) | _ |
+| Atendimentos | 20 (17 por pergunta e 3 pela navegação por categorias) |
+| Resposta encontrada | 90,0% |
+| Taxa de acerto (ajudou) | 85,0% |
+| Facilidade de uso (1 a 5) | 4,1 |
 
-**Dúvidas sem solução:** _listar_
+- **Dúvidas sem solução (até enttão):**
+ - "como funciona a clt?" (não encontrada)
+  - "conta no gov é obrigatório?" (não encontrada)
+  - "tenho direito a vale transporte?" (encontrada, mas a pessoa respondeu que não ajudou)
 
-**Melhoria feita a partir do teste:** _ex.: nova palavra-chave "xxx" na orientação N_
+**Melhoria feita a partir do teste:**
+1. Ampliamos as palavras-chave das 17 orientações com palavras mais gerais e sinônimos. Por exemplo, `clt` na Carteira de Trabalho, `gov` e `senha` na conta gov.br, `perdi o emprego` no seguro-desemprego, `mulher` e `exercito` no alistamento feminino. Logo após essa melhoria, as duas perguntas não encontradas passaram a ser respondidas: "como funciona a clt?" vai para a Carteira de Trabalho Digital e "conta no gov é obrigatório?" vai para a conta gov.br.
+2. Quando a pessoa digita um texto no lugar de s/n, o assistente agora explica: "Para fazer outra pergunta, primeiro responda s ou n aqui."
+
 
 ## Limitações
 
-- A busca é por palavras: perguntas com sinônimos que não estão nas palavras-chave podem não ser encontradas.
+- A busca é por palavras: perguntas com sinônimos que, mesmo com melhoias, não estão nas palavras-chave podem não ser encontradas.
 - O assistente não entende erros de digitação (ex.: "esttagio").
 - Regras que mudam por estado (como a Carteira de Identidade) são apresentadas de forma geral; a pessoa precisa conferir no site do seu estado.
 - As informações valem para a data de verificação; leis e prazos podem mudar.
