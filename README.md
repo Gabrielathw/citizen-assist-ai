@@ -1,6 +1,6 @@
-# Unus IA —  AI para Jovens no Primeiro Emprego
+# Unus IA —  Assistente para Jovens no Primeiro Emprego
 
-**Unus IA** é um assistente de terminal, em Python, que orienta jovens que vão começar a trabalhar sobre **documentos, trabalho e direitos**, sempre com fonte oficial, data de verificação e aviso de que **não é um canal oficial**.
+**Unus IA** é um assistente de terminal, em Python, que orienta jovens, que vão começar a trabalhar, sobre: **documentos, trabalho e direitos**, sempre com fonte oficial, data de verificação e aviso de que **não é um canal oficial**.
 
 > Global Solution 2026.2 · 1CCPY · Pensamento Computacional e Automação com Python 
 
