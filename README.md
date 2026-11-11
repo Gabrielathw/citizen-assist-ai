@@ -126,17 +126,17 @@ Cada atendimento é salvo em `data/historico.json`:
 
 | ID | Orientação | Fonte oficial | Data |
 |---|---|---|---|
-| 1 | CPF | https://www.gov.br/pt-br/servicos/inscrever-no-cpf | 09/11/2026 |
-| 2 | Carteira de Identidade Nacional | https://www.gov.br/governodigital/pt-br/identidade/cin | 09/11/2026 |
-| 3 | Título de eleitor | https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral | 11/11/2026 |
-| 4 | Alistamento militar | https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio | 11/11/2026 |
-| 5 | Carteira de Trabalho Digital | https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho | 05/11/2026 |
-| 6 | Jovem Aprendiz | https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/aprendizagem-profissional-regras-direitos-e-funcionamento-do-contrato-de-aprendizagem | 05/11/2026 |
-| 7 | Estágio (Lei 11.788/2008) | https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm | 06/11/2026 |
+| 1 | CPF | https://www.gov.br/pt-br/servicos/inscrever-no-cpf | 05/11/2026 |
+| 2 | Carteira de Identidade Nacional | https://www.gov.br/governodigital/pt-br/identidade/cin | 06/11/2026 |
+| 3 | Título de eleitor | https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral | 06/11/2026 |
+| 4 | Alistamento militar | https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio | 08/11/2026 |
+| 5 | Carteira de Trabalho Digital | https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho | 08/11/2026 |
+| 6 | Jovem Aprendiz | https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/aprendizagem-profissional-regras-direitos-e-funcionamento-do-contrato-de-aprendizagem | 08/11/2026 |
+| 7 | Estágio (Lei 11.788/2008) | https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm | 10/11/2026 |
 | 8 | Vagas do Sine | https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2025/janeiro/vagas-de-emprego-do-sine-podem-ser-visualizadas-na-carteira-de-trabalho-digital | 11/11/2026 |
-| 9 | FGTS | https://www.fgts.gov.br/Paginas/trabalhador/app-fgts.aspx |10/11/2026 |
-| 10 | Seguro-desemprego | https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego | 13/11/2026 |
-| 11 | 13º salário (Lei 4.090/1962) | https://www.planalto.gov.br/ccivil_03/leis/l4090.htm | 15/11/2026 |
+| 9 | FGTS | https://www.fgts.gov.br/Paginas/trabalhador/app-fgts.aspx |11/11/2026 |
+| 10 | Seguro-desemprego | https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego | 11/11/2026 |
+| 11 | 13º salário (Lei 4.090/1962) | https://www.planalto.gov.br/ccivil_03/leis/l4090.htm | 11/11/2026 |
 
 
 ### Fontes de apoio (consultadas para decidir o que entra ou não na base):
